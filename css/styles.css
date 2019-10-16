@@ -1,0 +1,30 @@
+div.foals{
+  float: right;
+  width: 300px;
+}
+div.weezer{
+  float: left;
+  width: 300px;
+}
+div.queen{
+  float: left;
+  width: 300px;
+  padding-left: 4cm;
+
+}
+div.shows{
+
+  text-align: center;
+  border-style: groove;
+  border-width: thick;
+  margin-right: 900px
+}
+em{
+  color: blue;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: underline;
+}
+h1{
+  text-align: center;
+}

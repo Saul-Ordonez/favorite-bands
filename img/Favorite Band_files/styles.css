@@ -1,0 +1,13 @@
+div.foals{
+  float: right;
+  width: 300px;
+}
+div.weezer{
+  float: left;
+  width: 300px;
+}
+div.queen{
+  float: left;
+  width: 300px;
+  margin-right: 5px;
+}
