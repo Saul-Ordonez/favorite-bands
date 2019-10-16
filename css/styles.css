@@ -1,10 +1,12 @@
 div.foals{
   float: right;
   width: 300px;
+  padding-right: 20px
 }
 div.weezer{
   float: left;
   width: 300px;
+  padding-left: 20px;
 }
 div.queen{
   float: left;
@@ -17,7 +19,10 @@ div.shows{
   text-align: center;
   border-style: groove;
   border-width: thick;
-  margin-right: 900px
+  margin-right: 200px;
+  padding-right: 40px;
+  margin-left: 200px;
+
 }
 em{
   color: blue;
@@ -27,4 +32,11 @@ em{
 }
 h1{
   text-align: center;
+}
+
+div.title{
+  border: 3px solid pink;
+  padding: 4px;
+  margin: 90px;
+  background-color: #4db8ff;
 }
